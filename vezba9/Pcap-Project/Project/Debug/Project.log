@@ -1,0 +1,7 @@
+﻿  vezba9.c
+vezba9.c(122): warning C4018: '<': signed/unsigned mismatch
+vezba9.c(127): warning C4018: '<': signed/unsigned mismatch
+vezba9.c(172): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+vezba9.c(171): warning C4090: 'initializing': different 'const' qualifiers
+  Project.vcxproj -> C:\Users\student\Desktop\vezba9\Pcap-Project\Project\.\Debug\Project.exe
+  Project.vcxproj -> .\Debug\Project.pdb (Full PDB)
